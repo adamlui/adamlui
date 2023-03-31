@@ -1,4 +1,4 @@
-#### I 💕 CChatGPT
+#### I 💕 ChatGPT
 
 <div align="center">
 
