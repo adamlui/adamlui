@@ -1,4 +1,4 @@
-#### I 💕 [ChatGPT](https://github.com/stars/adamlui/lists/chatgpt-add-ons)
+#### I 💕 [ChatGPT](https://github.com/adamlui/chatgpt-userscripts)
 
 <div align="center">
 
