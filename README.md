@@ -17,7 +17,7 @@
 </a>    
 <br /><br />    
 
-[![Follow @AdamLuiTube on YouTube](https://img.shields.io/badge/Youtube-@AdamLuiTube-blue?style=social&logo=youtube&link=https://www.youtube.com/@AdamLuiTube)](https://www.youtube.com/AdamLuiTube?sub_confirmation=1)
+[![Follow @AdamLuiTube on YouTube](https://img.shields.io/badge/YouTube-@AdamLuiTube-blue?style=social&logo=youtube&link=https://www.youtube.com/@AdamLuiTube)](https://www.youtube.com/AdamLuiTube?sub_confirmation=1)
 <a href="https://elonsucks.org/@adam" target="_blank"><img align="bottom" src="https://img.shields.io/mastodon/follow/109387703022229926?domain=https%3A%2F%2Felonsucks.org&style=social" alt="Follow @adam on Mastodon" title="Mastodon">
 [![Follow @adamllui on Twitter](https://img.shields.io/twitter/follow/adamllui?style=social)](https://twitter.com/adamllui)
 
