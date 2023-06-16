@@ -1,5 +1,3 @@
-#### I 💕 [ChatGPT](https://github.com/adamlui/chatgpt-apps)
-
 <div align="center">
 
 <a href="https://raw.githubusercontent.com/adamlui/github-stats/master/generated/overview.svg#gh-light-mode-only">
