@@ -1,4 +1,12 @@
-#### There's nothing vanilla JavaScript can't do already.
+<p align="center">
+    👋<br>
+    <samp>
+        There's nothing <ins>vanilla JavaScript</ins>
+        <span style="opacity: 0.5; font-size: 10px">
+            can't do more performantly
+        </span>
+    <samp>
+</p>
 
 <div align="center">
 
