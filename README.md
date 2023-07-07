@@ -1,7 +1,7 @@
 <p align="center">
     👋<br>
     <samp>
-        There's nothing <ins>vanilla JavaScript</ins> can't do more performantly
+        There's nothing <ins>vanilla JavaScript</ins> can't do more performantly already
     <samp>
 </p>
 
