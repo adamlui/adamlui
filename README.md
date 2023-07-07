@@ -1,10 +1,7 @@
 <p align="center">
     👋<br>
     <samp>
-        There's nothing <ins>vanilla JavaScript</ins>
-        <span style="opacity: 0.5; font-size: 10px">
-            can't do more performantly
-        </span>
+        There's nothing <ins>vanilla JavaScript</ins> can't do more performantly
     <samp>
 </p>
 
