@@ -1,10 +1,3 @@
-<p align="center">
-    👋<br>
-    <samp>
-        There's nothing <ins>vanilla JavaScript</ins> can't do more performantly already
-    <samp>
-</p>
-
 <div align="center">
 
 <a href="https://raw.githubusercontent.com/adamlui/github-stats/master/generated/overview.svg#gh-light-mode-only">
