@@ -13,7 +13,7 @@ class Attributes extends AdamLui {
 
     get life() {
         const langs = ['Chinese (Cantonese)', 'English'],
-              interests = ['music production', 'chess', 'asmr'];
+              interests = ['music production', 'writing', 'chess', 'asmr'];
 
         return [langs, interests];
     }
