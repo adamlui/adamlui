@@ -23,7 +23,7 @@ class Attributes extends AdamLui {
               specialities = ['chrome', 'greasemonkey', 'lib development', 'ai'],
               environments = ['sublime', 'vscode'];
 
-        return [langs, specialities, environment];
+        return [langs, specialities, environments];
     }
 }
 ```
