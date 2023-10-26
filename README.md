@@ -1,34 +1,19 @@
-```js
-class AdamLui {}
-
-class Attributes extends AdamLui {
-    get contact() {
-        const mastodon = "elonsucks.org/@adam",
-              x = "x.com/adamllui",
-              linkedin = "linkedin.com/in/adamlui",
-              email = "adamlui@pm.me";
-
-        return [mastodon, x, linkedin, email];
-    }
-
-    get life() {
-        const langs = ['Chinese (Cantonese)', 'English'],
-              interests = ['music production', 'writing', 'chess', 'asmr'];
-
-        return [langs, interests];
-    }
-
-    get coding() {
-        const langs = { 'expert': ['js', 'python', 'ahk', 'html', 'scss'] },
-              specialities = ['chrome', 'greasemonkey', 'lib development', 'ai'],
-              environments = ['sublime', 'vscode'];
-
-        return [langs, specialities, environments];
-    }
-}
-```
-
 <div align="center">
+
+<a href="https://raw.githubusercontent.com/adamlui/github-stats/master/generated/overview.svg#gh-light-mode-only">
+    <img src="https://github.com/adamlui/github-stats/blob/master/generated/overview.svg#gh-light-mode-only" />
+</a>
+<a href="https://raw.githubusercontent.com/adamlui/github-stats/master/generated/languages.svg#gh-light-mode-only">
+    <img src="https://github.com/adamlui/github-stats/blob/master/generated/languages.svg#gh-light-mode-only" />
+</a>
+
+<a href="https://raw.githubusercontent.com/adamlui/github-stats/master/generated/overview.svg#gh-dark-mode-only">
+    <img src="https://github.com/adamlui/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
+</a>
+<a href="https://raw.githubusercontent.com/adamlui/github-stats/master/generated/languages.svg#gh-dark-mode-only">
+    <img src="https://github.com/adamlui/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
+</a>    
+<br /><br />
 
 [![](https://img.shields.io/mastodon/follow/109387703022229926?domain=https%3A%2F%2Felonsucks.org&style=social "Follow @adam on Mastodon (elonsucks.org)")](https://elonsucks.org/@adam)
 [![](https://img.shields.io/badge/Follow%20@adamllui-2.1k-blue?logo=x&style=social "Follow @adamllui on X")](https://x.com/intent/user?screen_name=adamllui)
