@@ -1,18 +1,14 @@
 <div align="center">
 
 <a href="https://raw.githubusercontent.com/adamlui/github-stats/master/generated/overview.svg#gh-light-mode-only">
-    <img src="https://github.com/adamlui/github-stats/blob/master/generated/overview.svg#gh-light-mode-only" />
-</a>
+    <img src="https://github.com/adamlui/github-stats/blob/master/generated/overview.svg#gh-light-mode-only" /></a>
 <a href="https://raw.githubusercontent.com/adamlui/github-stats/master/generated/languages.svg#gh-light-mode-only">
-    <img src="https://github.com/adamlui/github-stats/blob/master/generated/languages.svg#gh-light-mode-only" />
-</a>
+    <img src="https://github.com/adamlui/github-stats/blob/master/generated/languages.svg#gh-light-mode-only" /></a>
 
 <a href="https://raw.githubusercontent.com/adamlui/github-stats/master/generated/overview.svg#gh-dark-mode-only">
-    <img src="https://github.com/adamlui/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
-</a>
+    <img src="https://github.com/adamlui/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" /></a>
 <a href="https://raw.githubusercontent.com/adamlui/github-stats/master/generated/languages.svg#gh-dark-mode-only">
-    <img src="https://github.com/adamlui/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
-</a>    
+    <img src="https://github.com/adamlui/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" /></a>    
 <br /><br />
 
 [![](https://img.shields.io/mastodon/follow/109387703022229926?domain=https%3A%2F%2Felonsucks.org&style=social "Follow @adam on Mastodon (elonsucks.org)")](https://elonsucks.org/@adam?utm_source=github&utm_content=shield)
