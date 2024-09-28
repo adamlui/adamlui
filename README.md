@@ -13,8 +13,8 @@
 
 [![](https://img.shields.io/mastodon/follow/109387703022229926?label=@adam@elonsucks.org&domain=https%3A%2F%2Felonsucks.org&style=social "Follow @adam on Mastodon (elonsucks.org)")](https://elonsucks.org/@adam?utm_source=github&utm_content=shield)
 [![](https://img.shields.io/badge/in%2fadamlui-2.5k-blue?logo=linkedin&style=social "Follow in/adamlui on LinkedIn")](https://linkedin.com/in/adamlui)
-[![](https://img.shields.io/badge/@adamluix-2.3k-blue?logo=x&style=social "Follow @adamluix on X")](https://x.com/intent/user?screen_name=adamluix)
 [![](https://img.shields.io/badge/@adamlui-652-blue?logo=medium&style=social "Follow @adamlui on Medium")](https://adamlui.com?utm_source=github&utm_content=shield)
+[![](https://img.shields.io/badge/@adamluix-2.3k-blue?logo=x&style=social "Follow @adamluix on X")](https://x.com/intent/user?screen_name=adamluix)
 [![](https://img.shields.io/youtube/channel/subscribers/UCgBMqK7SRL5R__3qM-YAcSg?label=%40adamluitube&style=social "Follow @adamluitube on YouTube")](https://www.youtube.com/AdamLuiTube?sub_confirmation=1)
 
 </div>
