@@ -16,6 +16,6 @@
 [![](https://img.shields.io/badge/@adamlui-1e1e1e?logo=medium)](https://medium.com/@adamlui)
 [![](https://img.shields.io/badge/~adamlui-cb0000?logo=npm)](https://www.npmjs.com/~adamlui)
 [![](https://img.shields.io/badge/@adamluix-1d9bf0?logo=x)](https://x.com/adamluix)
-[![](https://img.shields.io/badge/@adamluitube-ff0000?logo=youtube)](https://www.youtube.com/@adamluitube)
+[![](https://img.shields.io/badge/@AdamLuiTube-ff0000?logo=youtube)](https://www.youtube.com/@AdamLuiTube)
 
 </div>
