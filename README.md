@@ -11,10 +11,11 @@
     <img src="https://github.com/adamlui/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" /></a>    
 <br /><br />
 
-[![](https://img.shields.io/mastodon/follow/109387703022229926?label=@adam@elonsucks.org&domain=https%3A%2F%2Felonsucks.org&style=social "Follow @adam on Mastodon (elonsucks.org)")](https://elonsucks.org/@adam?utm_source=github&utm_content=shield)
-[![](https://img.shields.io/badge/in%2fadamlui-2.5k-blue?logo=linkedin&style=social "Follow in/adamlui on LinkedIn")](https://linkedin.com/in/adamlui)
-[![](https://img.shields.io/badge/@adamlui-652-blue?logo=medium&style=social "Follow @adamlui on Medium")](https://adamlui.com?utm_source=github&utm_content=shield)
-[![](https://img.shields.io/badge/@adamluix-2.3k-blue?logo=x&style=social "Follow @adamluix on X")](https://x.com/intent/user?screen_name=adamluix)
-[![](https://img.shields.io/youtube/channel/subscribers/UCgBMqK7SRL5R__3qM-YAcSg?label=%40adamluitube&style=social "Follow @adamluitube on YouTube")](https://www.youtube.com/AdamLuiTube?sub_confirmation=1)
+[![](https://img.shields.io/badge/in%2fadamlui-0c6dcb?logo=linkedin)](https://linkedin.com/in/adamlui)
+[![](https://img.shields.io/badge/@adam@elonsucks.org-5a46da?logo=mastodon&logoColor=white)](https://elonsucks.org/@adam?utm_source=github&utm_content=shield)
+[![](https://img.shields.io/badge/@adamlui-1e1e1e?logo=medium)](https://adamlui.com?utm_source=github&utm_content=shield)
+[![](https://img.shields.io/badge/~adamlui-cb3737?logo=npm)](https://www.npmjs.com/~adamlui)
+[![](https://img.shields.io/badge/@adamluix-1d9bf0?logo=x)](https://x.com/intent/user?screen_name=adamluix)
+[![](https://img.shields.io/badge/@adamluitube-fe0000?logo=youtube)](https://www.youtube.com/AdamLuiTube?sub_confirmation=1)
 
 </div>
