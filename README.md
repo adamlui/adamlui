@@ -25,8 +25,6 @@
     <img title="npm" src="https://img.shields.io/badge/~adamlui-7b68ee?logo=npm&style=for-the-badge"></a>
 <a href="https://quora.com/Adam-Lui-12">
     <img title="Quora" src="https://img.shields.io/badge/Adam_Lui-b92b27?logo=quora&style=for-the-badge"></a>
-<a href="[https://quora.com/Adam-Lui-12](https://x.com/adamluix)">
-    <img title="X" src="https://img.shields.io/badge/@adamluix-1d9bf0?logo=x&style=for-the-badge"></a>
 <a href="https://www.youtube.com/@AdamLuiTube">
     <img title="YouTube" src="https://img.shields.io/badge/@AdamLuiTube-ff0000?logo=youtube&style=for-the-badge"></a>
 
