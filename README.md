@@ -29,5 +29,7 @@
     <img title="YouTube" src="https://img.shields.io/badge/@AdamLuiTube-ff0000?logo=youtube&style=for-the-badge"></a>
 <a href="https://www.ebay.com/usr/kudocomics">
     <img title="eBay" src="https://img.shields.io/badge/kudocomics-0968f6?logo=ebay&logoColor=white&style=for-the-badge"></a>
+<a href="https://shortboxed.com/u/kudocomics">
+    <img title="Shortboxed" src="https://img.shields.io/badge/@adamlui-black?logo=9gag&logoColor=white&style=for-the-badge"></a>
 
 </div>
