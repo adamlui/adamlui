@@ -6,7 +6,7 @@ Your code is not safe!
  
  GitHub/Microsoft/VS Code employees have an **extensive** history of stealing from Free & Open Source (including private repos!) but charge for feats to victims of their employer.
 
- As of 6/10/2026, I started documenting this horrendous phenomenon (in hopes of deterring this shameless and unethical behavior, whether effective is to be determined):
+ As of 6/10/2026, I started documenting this horrendous phenomenon (in hopes of deterring this shameless and unethical behavior, whether effective is to be determined, if they don't stop I will turn this into full blog series and pay for ads):
 
  - 6/10/2026 - [Copilot Chat now sees your agent sessions](https://github.blog/changelog/2026-06-10-copilot-chat-now-sees-your-agent-sessions)
    - copied from 6/8 https://github.com/KudoAI/chatgpt.js/issues/672 (resolution introduced session analysis)
