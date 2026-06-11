@@ -1,6 +1,8 @@
 <hr>
 
 # IMPORTANT: GitHub employees steal from FOSS for pay
+
+Your code is not safe!
  
  GitHub/Microsoft/VS Code employees have an **extensively** horrendous history of stealing from Free & Open Source (including private repos!) but charge for feats to victims of their employer.
 
