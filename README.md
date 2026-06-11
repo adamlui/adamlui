@@ -4,7 +4,7 @@
 
 Your code is not safe!
 
-Massive projects like zig are steadily ditching GH (after 10 years!) due to concerns of MS forcing commercial Co-Pilot / AI down everyone's throats. 
+Massive projects like zig and gentoo are steadily ditching GH (after 10 years!) due to growing commercial Copilot infestation.
 
 But there is a deeper concern responsible for the steady migrations...
  
