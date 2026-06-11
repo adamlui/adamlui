@@ -1,3 +1,5 @@
+<hr>
+ 
  GitHub/Microsoft/VS Code employees have an **extensively** horrendous history of stealing from Free & Open Source (including private repos!) but charge for feats to victims of their employer.
 
  As of 6/10/2026, I started documenting this phenomenon (in hopes of deterring this shameless and unethical behavior, whether effective is to be determined):
