@@ -4,7 +4,7 @@
 
 Your code is not safe!
  
- GitHub/Microsoft/VS Code employees have an **extensive** history of stealing from Free & Open Source (including private repos!) but charge for feats to victims of their employer.
+ GitHub/Microsoft/VS Code employees have an **_extensive_** history of stealing from Free & Open Source (including private repos!) but charge for feats to victims of their employer.
 
  As of 6/10/2026, I started documenting this horrendous phenomenon (usually takes 2-3 days to copy because they work slow, I am doing this in hopes of deterring the shameless and unethical behavior, whether effective is to be determined, if they don't stop I will turn this into full blog series and pay for ads including full names of employees behind each commit, will expose forever due to SEO, my written content has millions of cumulative views, just saying be smart if you don't want to leave that kind of legacy and cut that shit out):
 
