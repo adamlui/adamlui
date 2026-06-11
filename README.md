@@ -13,7 +13,7 @@
  - 6/10/2026 - [Manage sub-issues, types, and dependencies from GitHub CLI](https://github.blog/changelog/2026-06-10-manage-sub-issues-types-and-dependencies-from-github-cli/)
    - copied from 6/8-6/9 https://github.com/KudoAI/chatgpt.js/issues?q=is%3Aissue%20created%3A2026-06-08..2026-06-09 (roadmapped CLI cmds for git actions)
  - 6/10/2026 - [Dedicated security review command now available in Copilot CLI](https://github.blog/changelog/2026-06-10-dedicated-security-review-command-now-available-in-copilot-cli/)
-   - copied from 6/8 https://github.com/KudoAI/chatgpt.js/issues/675 (roadmapped `--<audit|fix> [filepath|string|url]`)
+   - copied from 6/8 https://github.com/KudoAI/chatgpt.js/issues/675 (roadmapped CLI cmds for security actions)
   
 <hr>
 
