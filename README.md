@@ -14,7 +14,7 @@ But there is a deeper concern responsible for the steady migrations...
 
  - 6/10/2026 - [Copilot Chat now sees your agent sessions](https://github.blog/changelog/2026-06-10-copilot-chat-now-sees-your-agent-sessions) (thief unknown, code hidden)
    - copied from 6/8 https://github.com/KudoAI/chatgpt.js/issues/672 (resolution introduced session analysis)
- - 6/10/2026 - [List, view, and create discussions in GitHub CLI](https://github.blog/changelog/2026-06-10-list-view-and-create-discussions-in-github-cli/) (Babak K. Shandiz + Max Beizer)
+ - 6/10/2026 - [List, view, and create discussions in GitHub CLI](https://github.blog/changelog/2026-06-10-list-view-and-create-discussions-in-github-cli/) ("Babak K. Shandiz" + "Max Beizer")
    - copied from 6/8-6/9 https://github.com/KudoAI/chatgpt.js/issues?q=is%3Aissue%20created%3A2026-06-08..2026-06-09 (roadmapped  CLI cmds for git actions)
  - 6/10/2026 - [Manage sub-issues, types, and dependencies from GitHub CLI](https://github.blog/changelog/2026-06-10-manage-sub-issues-types-and-dependencies-from-github-cli/) (thief unknown)
    - copied from 6/8-6/9 https://github.com/KudoAI/chatgpt.js/issues?q=is%3Aissue%20created%3A2026-06-08..2026-06-09 (roadmapped CLI cmds for git actions)
