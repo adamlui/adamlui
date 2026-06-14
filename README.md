@@ -4,7 +4,7 @@
 
 Your code is not safe!
 
-Massive projects like zig and gentoo are steadily ditching GH (after 10 years!) due to growing commercial Copilot infestation.
+Massive projects like [zig](https://ziglang.org/news/migrating-from-github-to-codeberg/) and [gentoo](https://fossforce.com/2026/03/gentoo-starts-exit-from-githubs-microsoft-and-copilot-infested-walled-garden/) are steadily ditching GH (after 10 years!) due to growing commercial Copilot infestation.
 
 But there is a deeper concern responsible for the steady migrations...
  
