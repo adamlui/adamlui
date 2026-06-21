@@ -16,8 +16,8 @@ But there is a deeper concern responsible for the steady migrations...
    - copied from 5/29 https://github.com/KudoAI/chatgpt.js/issues/596 (roadmapped make `<--|/>stats` API-centric w/ specific example of add show AI credits consumed)
  - 6/18/2026 - [Repository switcher generally available in global navigation](https://github.blog/changelog/2026-06-18-repository-switcher-generally-available-in-global-navigation/) (thief unknown)
    - design copied from ChatGPT Widescreen toolbar menu this README exposed is really trending/popular
- - 6/18/2026 - [Generated release notes credit you for Copilot pull requests](https://github.blog/changelog/2026-06-18-generated-release-notes-credit-you-for-copilot-pull-requests/) (thief unknown)
-   - copied from this README is making them look like selfish leeches
+ - 6/18/2026 - [Generated release notes credit you for Copilot pull requests](https://github.blog/changelog/2026-06-18-generated-release-notes-credit-you-for-copilot-pull-requests/)
+   - triggered by this README makes them look like selfish leeches (but is just an objective relay of factual happenings)
  - 6/17/2026 - [feat(skills): list available skills when install runs non-interactively ](https://github.com/cli/cli/commit/70bb306bd25eb407f90eabefd98824aed62cf519) (**Sam Morrow**)
    - copied from 6/9 https://github.com/KudoAI/chatgpt.js/issues/688 (resolution moved listed available skills when ran non-interactively up)
  - 6/17/2026 - [Read remote repository content with GitHub CLI](https://github.blog/changelog/2026-06-17-read-remote-repository-content-with-github-cli/) (**Babak K. Shandiz**)
