@@ -15,7 +15,7 @@ But there is a deeper concern responsible for the steady migrations...
  - 6/19/2026 - [AI credits consumed per user now in the Copilot usage metrics API](https://github.blog/changelog/2026-06-19-ai-credits-consumed-per-user-now-in-the-copilot-usage-metrics-api/) (thief unknown)
    - copied from 5/29 https://github.com/KudoAI/chatgpt.js/issues/596 (roadmapped make `<--|/>stats` API-centric w/ specific example of add show AI credits consumed)
  - 6/18/2026 - [Repository switcher generally available in global navigation](https://github.blog/changelog/2026-06-18-repository-switcher-generally-available-in-global-navigation/) (thief unknown)
-   - design copied from ChatGPT Widescreen toolbar menu this README exposed is really trending/popular
+   - design copied from ChatGPT Widescreen toolbar menu (this README exposed as really trending/popular)
  - 6/18/2026 - [Generated release notes credit you for Copilot pull requests](https://github.blog/changelog/2026-06-18-generated-release-notes-credit-you-for-copilot-pull-requests/)
    - triggered by this README makes them look like selfish leeches (but is just an objective relay of factual happenings)
  - 6/17/2026 - [feat(skills): list available skills when install runs non-interactively ](https://github.com/cli/cli/commit/70bb306bd25eb407f90eabefd98824aed62cf519) (**Sam Morrow**)
