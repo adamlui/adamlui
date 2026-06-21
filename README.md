@@ -19,7 +19,7 @@ But there is a deeper concern responsible for the steady migrations...
  - 6/18/2026 - [Generated release notes credit you for Copilot pull requests](https://github.blog/changelog/2026-06-18-generated-release-notes-credit-you-for-copilot-pull-requests/)
    - triggered by this README makes them look like selfish leeches (but is just an objective relay of factual happenings)
  - 6/17/2026 - [feat(skills): list available skills when install runs non-interactively ](https://github.com/cli/cli/commit/70bb306bd25eb407f90eabefd98824aed62cf519) (**Sam Morrow**)
-   - copied from 6/9 https://github.com/KudoAI/chatgpt.js/issues/688 (resolution moved listed available skills when ran non-interactively up)
+   - copied from 6/9 https://github.com/KudoAI/chatgpt.js/issues/688 (resolution moved up listed available skills when ran non-interactively)
  - 6/17/2026 - [Read remote repository content with GitHub CLI](https://github.blog/changelog/2026-06-17-read-remote-repository-content-with-github-cli/) (**Babak K. Shandiz**)
    - copied from 6/5 https://github.com/KudoAI/chatgpt.js/issues/648 (resolution added URL input support including to remote repos)
  - 6/17/2026 - [Auto mode in Copilot Chat available for all users](https://github.blog/changelog/2026-06-17-auto-mode-in-copilot-chat-available-for-all-users/) (thief unknown, code hidden)
