@@ -18,7 +18,7 @@ But there is a deeper concern responsible for the steady migrations...
    - finalized design copied from ChatGPT Widescreen toolbar menu entry (this README exposed as really trending/popular, but even in the past during more active maintenance of my open source extensions they target those repos instead, now they are more focused on CLI since my activity is focused there lately via chatgpt.js)
  - 6/18/2026 - [Generated release notes credit you for Copilot pull requests](https://github.blog/changelog/2026-06-18-generated-release-notes-credit-you-for-copilot-pull-requests/)
    - triggered by this README makes them look like selfish leeches (but is just an objective relay of factual happenings)
- - 6/17/2026 - [feat(skills): list available skills when install runs non-interactively ](https://github.com/cli/cli/commit/70bb306bd25eb407f90eabefd98824aed62cf519) (**Sam Morrow**)
+ - 6/17/2026 - [feat(skills): list available skills when install runs non-interactively](https://github.com/cli/cli/commit/70bb306bd25eb407f90eabefd98824aed62cf519) (**Sam Morrow**)
    - copied from 6/9 https://github.com/KudoAI/chatgpt.js/issues/688 (resolution elevated listed available skills when ran non-interactively)
  - 6/17/2026 - [Read remote repository content with GitHub CLI](https://github.blog/changelog/2026-06-17-read-remote-repository-content-with-github-cli/) (**Babak K. Shandiz**)
    - copied from 6/5 https://github.com/KudoAI/chatgpt.js/issues/648 (resolution added URL input support including to remote repos)
