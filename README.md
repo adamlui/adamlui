@@ -12,9 +12,31 @@ But there is a deeper concern responsible for the steady migrations...
 
  As of 6/10/2026, I started documenting this horrendous phenomenon (usually takes 2-3 days to copy because they work slow, I am doing this in hopes of deterring the shameless and unethical behavior, whether effective is to be determined, if they don't stop I will turn this into full blog series and pay for ads including full names of employees behind each commit, will expose forever due to SEO, my written content has millions of cumulative views, just saying be smart if you don't want to leave that kind of legacy cut that shit out, also if/when the AI firings finally reach you you will never get a new job because recruiter at next employer will google your name this is standard practice):
 
+ - 6/19/2026 - [AI credits consumed per user now in the Copilot usage metrics API](https://github.blog/changelog/2026-06-19-ai-credits-consumed-per-user-now-in-the-copilot-usage-metrics-api/) (thief unknown)
+   - copied from 5/29 https://github.com/KudoAI/chatgpt.js/issues/596 (roadmapped make `<--|/>stats` API-centric w/ specific example of add show AI credits consumed)
+ - 6/18/2026 - [Repository switcher generally available in global navigation](https://github.blog/changelog/2026-06-18-repository-switcher-generally-available-in-global-navigation/) (thief unknown)
+   - design copied from ChatGPT Widescreen toolbar menu this README exposed is really trending/popular
+ - 6/18/2026 - [Generated release notes credit you for Copilot pull requests](https://github.blog/changelog/2026-06-18-generated-release-notes-credit-you-for-copilot-pull-requests/) (thief unknown)
+   - copied from this README is making them look like selfish leeches
+ - 6/17/2026 - [feat(skills): list available skills when install runs non-interactively ](https://github.com/cli/cli/commit/70bb306bd25eb407f90eabefd98824aed62cf519) (**Sam Morrow**)
+   - copied from 6/9 https://github.com/KudoAI/chatgpt.js/issues/688 (resolution moved listed available skills when ran non-interactively up)
+ - 6/17/2026 - [Read remote repository content with GitHub CLI](https://github.blog/changelog/2026-06-17-read-remote-repository-content-with-github-cli/) (**Babak K. Shandiz**)
+   - copied from 6/5 https://github.com/KudoAI/chatgpt.js/issues/648 (resolution added URL input support including to repos)
+ - 6/17/2026 - [Auto mode in Copilot Chat available for all users](https://github.blog/changelog/2026-06-17-auto-mode-in-copilot-chat-available-for-all-users/) (thief unknown, code hidden)
+   - copied from 6/10 https://github.com/KudoAI/chatgpt.js/issues/693 (described utilizing model `strengths` to auto-find best one)
+ - 6/17/2026 - [Agent finder for GitHub Copilot now available](https://github.blog/changelog/2026-06-17-agent-finder-for-github-copilot-now-available/) (thief unknown, code hidden)
+   - copied from 6/10 https://github.com/KudoAI/chatgpt.js/issues/693 (described utilizing model `strengths` to auto-find best one)
+ - 6/17/2026 - [Copilot CLI supports enterprise bring your own key (BYOK) models](https://github.blog/changelog/2026-06-17-copilot-cli-supports-enterprise-bring-your-own-key-byok-models/) (thief unknown, code hidden)
+   - copied from 6/9 https://github.com/KudoAI/chatgpt.js/issues (roadmapped add `<--|/>model`)
+ - 6/11/2026 - [AI usage report updates](https://github.blog/changelog/2026-06-11-ai-usage-report-updates/) (thief unknown, code hidden)
+   - copied from 5/29 https://github.com/KudoAI/chatgpt.js/issues/596 (roadmapped make `<--|/>stats` API-centric w/ specific example of add show AI usage)
+ - 6/11/2026 - [Copilot CLI: Configure everything from one place with /settings](https://github.blog/changelog/2026-06-11-copilot-cli-configure-everything-from-one-place-with-settings/) (thief unknown, code hidden)
+   - copied from 6/8 https://github.com/KudoAI/chatgpt.js/issues/672 (resolution introduced `settings.configOnlyKeys`)
+ - 6/11/2026 - [Agentic workflows no longer need a personal access token](https://github.blog/changelog/2026-06-11-agentic-workflows-no-longer-need-a-personal-access-token/) (thief unknown, code hidden)
+   - copied from 6/9 https://github.com/KudoAI/chatgpt.js/commit/1d880055d559981cc798528644f8fb509ee74e79 (added `provider.requiresAPIkey`) + https://github.com/KudoAI/chatgpt.js/issues/649 (roadmapped add token-less MixerBox AI support, popularly used in KudoAI chatbots, feats of which are also heavily copied by GH employees over many, many years)
  - 6/10/2026 - [Copilot Chat now sees your agent sessions](https://github.blog/changelog/2026-06-10-copilot-chat-now-sees-your-agent-sessions) (thief unknown, code hidden)
    - copied from 6/8 https://github.com/KudoAI/chatgpt.js/issues/672 (resolution introduced session analysis)
- - 6/10/2026 - [List, view, and create discussions in GitHub CLI](https://github.blog/changelog/2026-06-10-list-view-and-create-discussions-in-github-cli/) (Babak K. Shandiz + Max Beizer)
+ - 6/10/2026 - [List, view, and create discussions in GitHub CLI](https://github.blog/changelog/2026-06-10-list-view-and-create-discussions-in-github-cli/) (**Babak K. Shandiz + Max Beizer**)
    - copied from 6/8-6/9 https://github.com/KudoAI/chatgpt.js/issues?q=is%3Aissue%20created%3A2026-06-08..2026-06-09 (roadmapped  CLI cmds for git actions)
  - 6/10/2026 - [Manage sub-issues, types, and dependencies from GitHub CLI](https://github.blog/changelog/2026-06-10-manage-sub-issues-types-and-dependencies-from-github-cli/) (thief unknown)
    - copied from 6/8-6/9 https://github.com/KudoAI/chatgpt.js/issues?q=is%3Aissue%20created%3A2026-06-08..2026-06-09 (roadmapped CLI cmds for git actions)
