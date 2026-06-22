@@ -27,7 +27,7 @@ But there is a deeper concern responsible for the steady migrations...
  - 6/17/2026 - [Agent finder for GitHub Copilot now available](https://github.blog/changelog/2026-06-17-agent-finder-for-github-copilot-now-available/) (thief unknown, code hidden)
    - copied from 6/10 https://github.com/KudoAI/chatgpt.js/issues/693 (described utilizing model `strengths` to auto-find best one)
  - 6/17/2026 - [Copilot CLI supports enterprise bring your own key (BYOK) models](https://github.blog/changelog/2026-06-17-copilot-cli-supports-enterprise-bring-your-own-key-byok-models/) (thief unknown, code hidden)
-   - copied from 6/9 https://github.com/KudoAI/chatgpt.js/issues/685 (roadmapped add `<--|/>model`)
+   - copied from 6/9 https://github.com/KudoAI/chatgpt.js/issues/685 (roadmapped `<--|/>model`)
  - 6/11/2026 - [AI usage report updates](https://github.blog/changelog/2026-06-11-ai-usage-report-updates/) (thief unknown, code hidden)
    - copied from 5/29 https://github.com/KudoAI/chatgpt.js/issues/596 (roadmapped make `<--|/>stats` API-centric w/ specific example of add show AI usage)
  - 6/11/2026 - [Copilot CLI: Configure everything from one place with /settings](https://github.blog/changelog/2026-06-11-copilot-cli-configure-everything-from-one-place-with-settings/) (thief unknown, code hidden)
