@@ -21,7 +21,7 @@ But there is a deeper concern responsible for the steady migrations...
  - 6/17/2026 - [feat(skills): list available skills when install runs non-interactively](https://github.com/cli/cli/commit/70bb306bd25eb407f90eabefd98824aed62cf519) (**Sam Morrow**)
    - copied from 6/9 https://github.com/KudoAI/chatgpt.js/issues/688 (resolution elevated listed available skills when ran non-interactively)
  - 6/17/2026 - [Read remote repository content with GitHub CLI](https://github.com/cli/cli/commit/733e35c04c4141468f8882d17b063414ffe36c57) (**Babak K. Shandiz**)
-   - copied from 6/5 https://github.com/KudoAI/chatgpt.js/issues/648 (resolution added URL input support, including to remote repos)
+   - copied from 6/5 https://github.com/KudoAI/chatgpt.js/issues/648 (resolution added URL input support e.g. to remote repos)
  - 6/17/2026 - [Auto mode in Copilot Chat available for all users](https://github.blog/changelog/2026-06-17-auto-mode-in-copilot-chat-available-for-all-users/) (thief unknown, code hidden)
    - copied from 6/10 https://github.com/KudoAI/chatgpt.js/issues/693 (described utilizing model `strengths` to auto-find best one)
  - 6/17/2026 - [Agent finder for GitHub Copilot now available](https://github.blog/changelog/2026-06-17-agent-finder-for-github-copilot-now-available/) (thief unknown, code hidden)
