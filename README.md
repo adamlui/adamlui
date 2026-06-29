@@ -10,7 +10,9 @@ But there is a deeper concern responsible for the steady migrations...
  
 **GitHub/Microsoft/VS Code employees have a _relentless_ history of stealing from Free & Open Source** (including private repos!) but charge for feats to victims of their employer.
 
- As of 6/10/2026, I started documenting this horrendous phenomenon (usually takes >2 days to copy because they work slow, I am doing this in hopes of deterring the shameless and unethical behavior, whether effective is to be determined, if they don't stop I will turn this into full blog series and pay for ads including full names of employees behind each commit, will expose forever due to SEO, my written content has _millions_ of cumulative views, just saying be smart if you don't want to leave that kind of legacy cut that shit out, also if/when the AI firings finally reach you you will never get a new job because recruiter at next employer will google your name this is standard practice):
+ As of 6/10/2026, I started documenting this horrendous phenomenon (usually takes >2 days to copy because they work slow, I am doing this in hopes of deterring the shameless and unethical behavior, whether effective is to be determined, if they don't stop I will turn this into full blog series and pay for ads including full names of employees behind each commit, will expose forever due to SEO, my written content has _millions_ of cumulative views, just saying be smart if you don't want to leave that kind of legacy cut that shit out, also if/when the AI firings finally reach you you will never get a new job because recruiter at next employer will google your name this is standard practice)
+
+ Keep in mind this log is not even comprehensive to accurately imagine the scale of their thievery:
 
   - 6/28/2026 - [AH: respect chat.autoReply](https://github.com/microsoft/vscode/pull/323237) (**Justin Chen**)
     - copied from 6/1 https://github.com/KudoAI/chatgpt.js/issues/617 (resolution refined condition to auto-skip user question)
