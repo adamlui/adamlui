@@ -14,7 +14,7 @@ But there is a deeper concern responsible for the steady migrations...
 
  Keep in mind this log is not even comprehensive to accurately imagine the full scale of their thievery:
 
-  - 6/29/2026 - [Restrict issue creation to collaborators only](https://github.blog/changelog/2026-06-29-restrict-issue-creation-to-collaborators-only/)
+  - 6/29/2026 - [Restrict issue creation to collaborators only](https://github.blog/changelog/2026-06-29-restrict-issue-creation-to-collaborators-only/) (thief unknown)
     - triggered by this README exposed on 6/28 multiple GH employees ban me/my Issues to preserve false illusion of employee "efficiency" w/o having to put in the actual work (literally consciously accelerating tech debt)
   - 6/28/2026 - [AH: respect `chat.autoReply`](https://github.com/microsoft/vscode/pull/323237) (**Justin Chen**)
     - copied from 6/1 https://github.com/KudoAI/chatgpt.js/issues/617 (resolution refined condition for AI chat auto-reply)
