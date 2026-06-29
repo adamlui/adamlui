@@ -17,7 +17,7 @@ But there is a deeper concern responsible for the steady migrations...
   - 6/28/2026 - [AH: respect `chat.autoReply`](https://github.com/microsoft/vscode/pull/323237) (**Justin Chen**)
     - copied from 6/1 https://github.com/KudoAI/chatgpt.js/issues/617 (resolution refined condition for AI chat auto-reply)
   - 6/27/2026 - [Route Agents window session keybindings around terminal](https://github.com/microsoft/vscode/commit/9da4a9bba4e0a44669129b6b73ab7a587d728da9) (**Rob Lourens**)
-    - copied from 6/25 https://github.com/KudoAI/chatgpt.js/commit/acb9f473dd967b338e901995a8add6afd6217488 (grouped routes by type, clearly elucidating their symmetry w/ terminal keybindings)
+    - copied from 6/25 https://github.com/KudoAI/chatgpt.js/commit/acb9f473dd967b338e901995a8add6afd6217488 (grouped routes by type, more clearly elucidating their symmetry w/ terminal keybindings)
   - 6/27/2026 - [chat: Hide debug log export for Agent Host sessions](https://github.com/microsoft/vscode/pull/323281) (**Rob Lourens**)
     - copied from 6/25 https://github.com/KudoAI/chatgpt.js/releases/tag/v4.15.0 (changed `--debug` to not conflict w/ `--quiet`)
   - 6/26/2026 - [Add `chatSessionId` to `chat.modelChange` telemetry](https://github.com/microsoft/vscode/pull/322579) (**Siddharth Singha Roy**)
