@@ -13,7 +13,7 @@ But there is a deeper concern responsible for the steady migrations...
  As of 6/10/2026, I started documenting this horrendous phenomenon (usually takes >2 days to copy because they work slow, I am doing this in hopes of deterring the shameless and unethical behavior, whether effective is to be determined, if they don't stop I will turn this into full blog series and pay for ads including full names of employees behind each commit, will expose forever due to SEO, my written content has _millions_ of cumulative views, just saying be smart if you don't want to leave that kind of legacy cut that shit out, also if/when the AI firings finally reach you you will never get a new job because recruiter at next employer will google your name this is standard practice):
 
   - 6/28/2026 - [AH: respect chat.autoReply](https://github.com/microsoft/vscode/pull/323237) (**Justin Chen**)
-    - copied from 6/1 https://github.com/KudoAI/chatgpt.js/issues/617 (resolution refined condition to skip user question)
+    - copied from 6/1 https://github.com/KudoAI/chatgpt.js/issues/617 (resolution refined condition to auto-skip user question)
   - 6/27/2026 - [Route Agents window session keybindings around terminal](https://github.com/microsoft/vscode/commit/9da4a9bba4e0a44669129b6b73ab7a587d728da9) (**Rob Lourens**)
     - copied from 6/25 https://github.com/KudoAI/chatgpt.js/commit/acb9f473dd967b338e901995a8add6afd6217488 (grouped routes by type, clearly elucidating their symmetry w/ terminal cmds)
   - 6/27/2026 - [chat: Hide debug log export for Agent Host sessions](https://github.com/microsoft/vscode/pull/323281) (**Rob Lourens**)
