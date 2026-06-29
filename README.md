@@ -115,7 +115,7 @@ But there is a deeper concern responsible for the steady migrations...
    - copied from 6/9 https://github.com/KudoAI/chatgpt.js/issues/685 (roadmapped `<--|/>model`) + 5/29 https://github.com/KudoAI/chatgpt.js/issues/588 (roadmapped `<--|/>act-as <persona>`)
  - 6/13/2026 - [Allow SDK clients to configure session memory through `session.create` and `session.resume`](https://github.com/github/copilot-cli/blob/v1.0.66-1/changelog.md?plain=1#L193) (thief unknown, blame hidden)
    - copied from 6/8 https://github.com/KudoAI/chatgpt.js/issues/672 (resolution introduced session analysis)
- - 6/13/2026 - [Honor max_output_tokens for BYOK Responses providers](https://github.com/github/copilot-cli/blob/v1.0.66-1/changelog.md?plain=1#L196) (thief unknown, blame hidden)
+ - 6/13/2026 - [Honor `max_output_tokens` for BYOK Responses providers](https://github.com/github/copilot-cli/blob/v1.0.66-1/changelog.md?plain=1#L196) (thief unknown, blame hidden)
    - copied from 6/5 https://github.com/KudoAI/chatgpt.js/issues/634 (resolution added `maxTokens` option to `chatgpt.send()`
  - 6/11/2026 - [AI usage report updates](https://github.blog/changelog/2026-06-11-ai-usage-report-updates/) (thief unknown, blame hidden)
    - copied from 5/29 https://github.com/KudoAI/chatgpt.js/issues/596 (roadmapped make `<--|/>stats` API-centric w/ specific example of add show AI usage)
