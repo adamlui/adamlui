@@ -19,7 +19,7 @@ But there is a deeper concern responsible for the steady migrations...
   - 6/27/2026 - [Route Agents window session keybindings around terminal](https://github.com/microsoft/vscode/commit/9da4a9bba4e0a44669129b6b73ab7a587d728da9) (**Rob Lourens**)
     - copied from 6/25 https://github.com/KudoAI/chatgpt.js/commit/acb9f473dd967b338e901995a8add6afd6217488 (grouped routes by type, clearly elucidating their symmetry w/ terminal cmds)
   - 6/27/2026 - [chat: Hide debug log export for Agent Host sessions](https://github.com/microsoft/vscode/pull/323281) (**Rob Lourens**)
-    - copied from 6/25 https://github.com/KudoAI/chatgpt.js/releases/tag/v4.15.0 (added change `--debug` to not conflict w/ `--quiet`)
+    - copied from 6/25 https://github.com/KudoAI/chatgpt.js/releases/tag/v4.15.0 (changed `--debug` to not conflict w/ `--quiet`)
   - 6/26/2026 - [Add chatSessionId to chat.modelChange telemetry](https://github.com/microsoft/vscode/pull/322579) (**Siddharth Singha Roy**)
     - copied from KudoAI chatbots' `app.apis.AIchatOS.userID` for same purpose (this README exposed on 6/10 as heavily copied by co-workers in the past)
   - 6/26/2026 - [Add telemetry support for BYOK language model providers](https://github.com/microsoft/vscode/pull/323210/changes) (**Vritant Bhardwaj**)
