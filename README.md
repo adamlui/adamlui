@@ -47,6 +47,8 @@ But there is a deeper concern responsible for the steady migrations...
     - copied from 6/5 https://github.com/KudoAI/chatgpt.js/issues/647 (resolution added/used `auto` as default model provider selection strategy, also the repo's maintainers stalked me heavily since the past when I exposed their laziness resulted in lingering bugs galore, now they are still focused as ever on AI and feats instead of just make it work fast as it should, so priorities are upside down as per usual and continually fueling the AI hate train/exodus)
   - 6/25/2026 - [Saved views for repository issues – Public Preview and adjustable row heights in projects](https://github.blog/changelog/2026-06-25-saved-views-for-repository-issues-and-adjustable-row-heights-in-projects/) (thief unknown, blame hidden)
     - triggered by 6/10 logs of this README used a shared multi-day Issue view which exposed ugly interface + URLs
+  - 6/24/2026 - [VS Code session-level cost information](https://code.visualstudio.com/updates/v1_126#_session-level-cost-information) (thief unknown)
+    - copied from 5/29 https://github.com/KudoAI/chatgpt.js/issues/596 (roadmapped make `<--|/>stats` API-centric w/ specific example of add show AI credits consumed)
   - 6/24/2026 - [feat(chat): implement AgentHostSessionListStore for managing agent-host sessions](https://github.com/microsoft/vscode/pull/322333) (**Don Jayamanne**)
     - copied from 6/8 https://github.com/KudoAI/chatgpt.js/issues/673 (roadmapped session management)
   - 6/24/2026 - [Add thank you](https://github.com/desktop/desktop/commit/a0b43a9d6900ca43379288fe5529b3a3d05510a5#diff-21d4a403a458ab0bd2be03574e84344da6e3b7cd56f401104712029f23f0a6beR16-R196) (**Markus Olsson**)
@@ -123,6 +125,8 @@ But there is a deeper concern responsible for the steady migrations...
    - copied from 6/8 https://github.com/KudoAI/chatgpt.js/issues/672 (resolution introduced `settings.configOnlyKeys`)
  - 6/11/2026 - [Agentic workflows no longer need a personal access token](https://github.blog/changelog/2026-06-11-agentic-workflows-no-longer-need-a-personal-access-token/) (thief unknown, blame hidden)
    - copied from 6/9 https://github.com/KudoAI/chatgpt.js/commit/1d880055d559981cc798528644f8fb509ee74e79 (added `provider.requiresAPIkey`) + 6/5 https://github.com/KudoAI/chatgpt.js/issues/649 (roadmapped add token-less MixerBox AI support, popularly used in KudoAI chatbots, feats of which are also heavily copied by GH employees over many, many years)
+ - 6/10/2026 - [VS Code session navigation](https://code.visualstudio.com/updates/v1_124#_navigate-between-sessions) (thief unknown)
+   - copied from 6/8 https://github.com/KudoAI/chatgpt.js/issues/673 (roadmapped session navigation)
  - 6/10/2026 - [Copilot Chat now sees your agent sessions](https://github.blog/changelog/2026-06-10-copilot-chat-now-sees-your-agent-sessions) (thief unknown, blame hidden)
    - copied from 6/8 https://github.com/KudoAI/chatgpt.js/issues/672 (resolution introduced session analysis)
  - 6/10/2026 - [List, view, and create discussions in GitHub CLI](https://github.blog/changelog/2026-06-10-list-view-and-create-discussions-in-github-cli/) (**Babak K. Shandiz + Max Beizer**)
