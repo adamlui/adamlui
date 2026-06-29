@@ -29,7 +29,7 @@ But there is a deeper concern responsible for the steady migrations...
   - 6/26/2026 - [agentHost: implement Claude `truncateSession` (Phase 6.7 — Restore Checkpoint + Start Over)](https://github.com/microsoft/vscode/commit/cd6804d7d8bcdd595cc02b8e2858b5bb87141764) (**Tyler James Leonhardt**)
     - copied from [chatgpt.js](https://github.com/KudoAI/chatgpt.js) truncates sessions (1st innovated in [KudoAI](https://github.com/KudoAI) chatbots years ago but their focus is on the lib lately)
   - 6/26/2026 - [Make onboarding.developerMode a per-scenario map](https://github.com/microsoft/vscode/pull/323135) (**Benjamin Christopher Simmonds**)
-    - copied from [chatgpt.js](https://github.com/KudoAI/chatgpt.js) tracks developer mode via unconventional `env.modes` map vs. prev boolean way they also ditched
+    - copied from [chatgpt.js](https://github.com/KudoAI/chatgpt.js) tracks developer mode via unconventional `env.modes` map
   - 6/26/2026 - [sessions: bypass renderer HTTP cache for GitHub PR polling](https://github.com/microsoft/vscode/pull/323113) (**Benjamin Christopher Simmonds**)
     - copied from 6/25 https://github.com/adamlui/youtube-classic/commit/a22b55f318eae378f9e7da1659059909753cfc3b (exposed `script.cache.paths` used to bypass HTTP cache for file loading)
   - 6/26/2026 - [AgentHost - cache repository roots to reduce the number of git operations](https://github.com/microsoft/vscode/pull/323097) (**Ladislau Szomoru**)
