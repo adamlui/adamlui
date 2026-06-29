@@ -15,7 +15,7 @@ But there is a deeper concern responsible for the steady migrations...
  Keep in mind this log is not even comprehensive to accurately imagine the full scale of their thievery:
 
   - 6/28/2026 - [AH: respect `chat.autoReply`](https://github.com/microsoft/vscode/pull/323237) (**Justin Chen**)
-    - copied from 6/1 https://github.com/KudoAI/chatgpt.js/issues/617 (resolution refined condition to auto-skip user question)
+    - copied from 6/1 https://github.com/KudoAI/chatgpt.js/issues/617 (resolution refined condition for AI chatt auto-reply)
   - 6/27/2026 - [Route Agents window session keybindings around terminal](https://github.com/microsoft/vscode/commit/9da4a9bba4e0a44669129b6b73ab7a587d728da9) (**Rob Lourens**)
     - copied from 6/25 https://github.com/KudoAI/chatgpt.js/commit/acb9f473dd967b338e901995a8add6afd6217488 (grouped routes by type, clearly elucidating their symmetry w/ terminal cmds)
   - 6/27/2026 - [chat: Hide debug log export for Agent Host sessions](https://github.com/microsoft/vscode/pull/323281) (**Rob Lourens**)
