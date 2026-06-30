@@ -16,7 +16,7 @@ But there is a deeper concern responsible for the steady migrations...
 
   - 6/30/2026 - [Release page improvements: new navigation sidebar and per-asset download counts](https://github.blog/changelog/2026-06-30-releases-sidebar-navigation-and-per-asset-download-counts/) (**Camilla Moraes** is PM who took credit)
     - triggered by this README linked to specific Release for the 1st time on 6/28 but was hard to nav
-  - 6/29/2026 - [Restrict issue creation to collaborators only](https://github.blog/changelog/2026-06-29-restrict-issue-creation-to-collaborators-only/) (thief unknown)
+  - 6/29/2026 - [Restrict issue creation to collaborators only](https://github.blog/changelog/2026-06-29-restrict-issue-creation-to-collaborators-only/) (**Camilla Moraes** is PM who took credit)
     - triggered by this README exposed on 6/28 multiple GH employees sneakily ban me/my Issues to preserve false illusion of employee "efficiency" w/o having to put in the actual work (literally consciously accelerating tech debt)
   - 6/28/2026 - [AH: respect `chat.autoReply`](https://github.com/microsoft/vscode/pull/323237) (**Justin Chen**)
     - copied from 6/1 https://github.com/KudoAI/chatgpt.js/issues/617 (resolution refined condition for AI chat auto-reply)
