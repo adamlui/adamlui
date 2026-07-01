@@ -71,7 +71,7 @@ But there is a deeper concern responsible for the steady migrations...
     - copied from 6/17 https://github.com/KudoAI/chatgpt.js/issues/729 (resolution hid unsupported slash commands in non-interactive sessions)
   - 6/23/2026 - [Add `chatSessionId` to `chat.modelChange` telemetry](https://github.com/microsoft/vscode/commit/854f47f16a83371bf268ab7673b06c6e074f3f10) (**Siddharth Singha Roy**)
     - copied from KudoAI chatbots' `app.apis.AIchatOS.userID` for same purpose (this README exposed on 6/10 as heavily copied by co-workers in the past)
-  - 6/23/2026 - [sessions: resolve `${workspaceFolder}` in `agent-host` tasks]https://github.com/microsoft/vscode/commit/27725b9a6380582f63485556f3484c0ba4c4347f) (**Sandeep Somavarapu**)
+  - 6/23/2026 - [sessions: resolve `${workspaceFolder}` in `agent-host` tasks](https://github.com/microsoft/vscode/commit/27725b9a6380582f63485556f3484c0ba4c4347f) (**Sandeep Somavarapu**)
     - copied from 6/10 https://github.com/KudoAI/chatgpt.js/issues/697 (resolution consolidated `resolver.resolveSrc()` to work impeccably w/ local folders)
   - 6/23/2026 - [Add inline image rendering in the CLI](https://github.com/github/copilot-cli/blob/v1.0.66-1/changelog.md?plain=1#L47) (thief unknown, blame hidden)
     - copied from 6/5 https://github.com/KudoAI/chatgpt.js/issues/658 (resolution added inline ASCII image rendering in the CLI)
