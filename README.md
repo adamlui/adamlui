@@ -44,7 +44,7 @@ But there is a deeper concern responsible for the steady migrations...
     - copied from [KudoAI](https://github.com/KudoAI) chatbots allow auto-focus chat input when switching sesions
   - 6/25/2026 - [chat: restore last-used agent and model for new chat editors](https://github.com/microsoft/vscode/pull/323011) (**Don Jayamanne**)
     - copied from chatgpt.js restores last-used agent/model in REPL sessions and optionally between new terminal sessions
-  - 6/25/2026 - [feat: Enhance command handling and completion for runtime commands) (**Don Jayamanne**)
+  - 6/25/2026 - [feat: Enhance command handling and completion for runtime commands](https://github.com/microsoft/vscode/pull/322976) (**Don Jayamanne**)
     - "...Improved slash command parsing to retain raw input" copied from 6/23 https://github.com/KudoAI/chatgpt.js/commit/c2393467737675187fdee81c37ceefc95419fa2e (scaled raw slash command input parsing multi-line)
     - "...Modified command invocation logic to support trailing text as input for commands like `/env` and `/review`" copied from [chatgpt.js](https://github.com/KudoAI/chatgpt.js) slash commands support trailing text as input
   - 6/25/2026 - [fix: default Copilot model to `'auto'` for broader plan compatibility](https://github.com/desktop/desktop/commit/6d4fab5c361ce3afe9e023c23770c3ef436b0969) (**tidy-dev**)
