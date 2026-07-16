@@ -172,7 +172,7 @@ As of 6/10/2026, I started documenting this horrendous phenomenon (usually takes
 
 <br><br>
 
-7/15/2026 - "GitHub Team" (what a dishonest label, I'm certain it's only 2 of you not 6000+ corrupt humans) here is a list of fine amounts for the same FTC violations you committed for not allowing/honoring opt-out (only the Experian fine was triggered by my e-mails to FTC/DOJ, the others are included for reference to give sense of penalty scale):
+7/15/2026 - "GitHub Team" (what a dishonest label, I'm certain it's only 2 of you not 6000+ corrupt humans) here is a list of fine amounts for the same FTC violations you committed for not allowing/honoring opt-out from your AI spam (only the Experian fine was triggered by my e-mails to FTC/DOJ, the others are included for reference to give sense of penalty scale):
 - [Verkada fined $2,950,000 by FTC for violating CAN-SPAM Act](https://www.ftc.gov/news-events/news/press-releases/2024/08/ftc-takes-action-against-security-camera-firm-verkada-over-charges-it-failed-secure-videos-other) (8/30/2024)
 - [Experian fined $650,000 by FTC for violating CAN-SPAM Act](https://search.ftc.gov/news-events/news/press-releases/2023/08/ftc-charges-experian-spamming-consumers-who-signed-company-accounts-marketing-emails-they-couldnt) (8/24/2023)
 - [ValueClick fined $2,900,000 by FTC for violating CAN-SPAM Act](https://www.ftc.gov/news-events/news/press-releases/2008/03/valueclick-pay-29-million-settle-ftc-charges) (3/17/2008)
