@@ -10,7 +10,7 @@ But there is a deeper concern responsible for the steady migrations...
  
 **GitHub/Microsoft/VS Code employees have a _relentless_ history of stealing from Free & Open Source** (including private repos!) but charge for feats to victims of their employer.
 
-As of 6/10/2026, I started documenting this horrendous phenomenon (usually takes >2 days to copy because they work slow, I am doing this in hopes of deterring the shameless and unethical behavior, whether effective is to be determined, if they don't stop I will turn this into full blog series and pay for ads including full names of employees behind each commit, will expose forever due to SEO, my written content has _millions_ of cumulative views, just saying be smart if you don't want to leave that kind of legacy cut that shit out, also if/when the AI firings finally reach you you will never get a new job because recruiter at next employer will google your name this is standard practice, also the desperation is so senseless because CEOs are dumb and will eventually re-hire employees when everything starts constantly crashing, but they won't re-hire you if you made this list because it reveals you are a PR liability nightmare and Gen Z is mostly jobless so who do you think they will pick?)
+As of 6/10/2026, I started documenting this horrendous phenomenon (usually takes >2 days to copy because they work slow, I am doing this in ho pes of deterring the shameless and unethical behavior, whether effective is to be determined, if they don't stop I will turn this into full blog series and pay for ads including full names of employees behind each commit, will expose forever due to SEO, my written content has _millions_ of cumulative views, just saying be smart if you don't want to leave that kind of legacy cut that shit out, also if/when the AI firings finally reach you you will never get a new job because recruiter at next employer will google your name this is standard practice, also the desperation is so senseless because CEOs are dumb and will eventually re-hire employees when everything starts constantly crashing, but they won't re-hire you if you made this list because it reveals you are a PR liability nightmare and Gen Z is mostly jobless so who do you think they will pick?)
 
  Keep in mind this log is not even comprehensive to accurately imagine the full scale of their thievery:
 
@@ -170,8 +170,6 @@ As of 6/10/2026, I started documenting this horrendous phenomenon (usually takes
 
 <div align="center"><img width="366" height="523" alt="image" src="https://github.com/user-attachments/assets/7017fdc2-206c-4b0c-ac84-82ebafe5dcca" /></div>
 
-...so keep violating users, or don't do it, I'm not your boss either way, your actions were decided by you alone (thus so are any subsequent consequences so don't get mad at me, I merely observe and report factual events)
-
 <br><br>
 
 7/15/2026 - "GitHub Team" (what a dishonest label, I'm certain it's only 2 of you not 6000+ corrupt humans) here is a list of fine amounts for the same FTC violations you committed for not allowing/honoring opt-out (only the Experian fine was triggered by my e-mails to FTC/DOJ, the others are included for reference to give sense of penalty scale):
@@ -180,7 +178,9 @@ As of 6/10/2026, I started documenting this horrendous phenomenon (usually takes
 - [ValueClick fined $2,900,000 by FTC for violating CAN-SPAM Act](https://www.ftc.gov/news-events/news/press-releases/2008/03/valueclick-pay-29-million-settle-ftc-charges) (3/17/2008)
 - [Adteractive fined $650,000 by FTC for violating CAN-SPAM Act](https://www.ftc.gov/news-events/news/press-releases/2007/11/major-online-advertiser-settles-ftc-charges-free-gifts-werent-free-settlement-calls-650000-civil) (11/28/2007)
 - [Yesmail fined $50,717 by FTC for violating CAN-SPAM Act](https://search.ftc.gov/news-events/news/press-releases/2006/11/marketer-settles-ftc-sending-unwanted-e-mails) (11/6/2006)
-  
+
+...so keep violating users, or don't do it, I'm not your boss either way, your actions were decided by you alone (thus so are any subsequent consequences so don't get mad at me, I merely observe and report factual events)
+
 <hr>
 
 <div align="center">
