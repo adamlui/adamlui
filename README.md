@@ -176,8 +176,8 @@ As of 6/10/2026, I started documenting this horrendous phenomenon (usually takes
 - [Verkada fined $2,950,000 by FTC for violating CAN-SPAM Act](https://www.ftc.gov/news-events/news/press-releases/2024/08/ftc-takes-action-against-security-camera-firm-verkada-over-charges-it-failed-secure-vide) (8/30/2024)
 - [Experian fined $650,000 by FTC for violating CAN-SPAM Act](https://search.ftc.gov/news-events/news/press-releases/2023/08/ftc-charges-experian-spamming-consumers-who-signed-company-accounts-marketing-emails-they-couldnt) (8/24/2023)
 - [ValueClick fined $2,900,000 by FTC for violating CAN-SPAM Act](https://www.ftc.gov/news-events/news/press-releases/2008/03/valueclick-pay-29-million-settle-ftc-charges) (3/17/2008)
-- [Adteractive fined $650,000 by FTC for violating CAN-SPAM Act](https://www.ftc.gov/news-events/news/press-releases/2007/11/major-online-advertiser-settles-ftc-charges-free-gifts-werent-free-settlement-calls-650000-civil) (11/28/2007) - 
-- [Independent marketer fined by FTC $50,717 for violating CAN-SPAM Act](https://search.ftc.gov/news-events/news/press-releases/2006/11/marketer-settles-ftc-sending-unwanted-e-mails) (11/6/2006) -  (the likely amount you will pay if Microsoft denies any involvement in your actions)
+- [Adteractive fined $650,000 by FTC for violating CAN-SPAM Act](https://www.ftc.gov/news-events/news/press-releases/2007/11/major-online-advertiser-settles-ftc-charges-free-gifts-werent-free-settlement-calls-650000-civil) (11/28/2007)
+- [Independent marketer fined by FTC $50,717 for violating CAN-SPAM Act](https://search.ftc.gov/news-events/news/press-releases/2006/11/marketer-settles-ftc-sending-unwanted-e-mails) (11/6/2006) (the likely amount you will pay if Microsoft denies any involvement in your actions)
   
 <hr>
 
