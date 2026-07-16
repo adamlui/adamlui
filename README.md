@@ -170,6 +170,8 @@ As of 6/10/2026, I started documenting this horrendous phenomenon (usually takes
 
 <div align="center"><img width="366" height="523" alt="image" src="https://github.com/user-attachments/assets/7017fdc2-206c-4b0c-ac84-82ebafe5dcca" /></div>
 
+<br><br>
+
 7/15/2026 - "GitHub Team" (what a dishonest label, I'm certain it's only 2 of you not 6000+ corrupt humans) here is a list of fine amounts for the same FTC violations you committed for not allowing/honoring opt-out (so you can feel the scale):
 - [Verkada fined $2,950,000 by FTC for violating CAN-SPAM Act](https://www.ftc.gov/news-events/news/press-releases/2024/08/ftc-takes-action-against-security-camera-firm-verkada-over-charges-it-failed-secure-vide) (8/30/2024)
 - [Experian fined $650,000 by FTC for violating CAN-SPAM Act](https://search.ftc.gov/news-events/news/press-releases/2023/08/ftc-charges-experian-spamming-consumers-who-signed-company-accounts-marketing-emails-they-couldnt) (8/24/2023)
