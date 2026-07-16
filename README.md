@@ -170,6 +170,8 @@ As of 6/10/2026, I started documenting this horrendous phenomenon (usually takes
 
 <div align="center"><img width="366" height="523" alt="image" src="https://github.com/user-attachments/assets/7017fdc2-206c-4b0c-ac84-82ebafe5dcca" /></div>
 
+...so keep violating users, or don't do it, I'm not your boss either way, your actions were decided by you alone (thus so are any subsequent consequences so don't get mad at me, I merely observe and report factual events)
+
 <br><br>
 
 7/15/2026 - "GitHub Team" (what a dishonest label, I'm certain it's only 2 of you not 6000+ corrupt humans) here is a list of fine amounts for the same FTC violations you committed for not allowing/honoring opt-out (only the Experian fine was triggered by my e-mails to FTC/DOJ, the others are included for reference to give sense of penalty scale):
