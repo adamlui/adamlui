@@ -185,6 +185,8 @@ As of 6/10/2026, I started documenting this horrendous phenomenon (usually takes
 
 7/16/2026 - I've been busy campaigning against the corrupt Gavin Newsom (who Mark Zuckerberg is a [stealth whale donor to](https://www.latimes.com/california/story/2021-04-27/corporations-donate-226-million-toward-newsom-2020) via [behested payments](https://en.wikipedia.org/wiki/Behested_payment), Vanity Fair will shortly be publishing an expose by his former mistress who has wisely come to recognize she too is a victim) so new GitHub copylog entries will be updated in the near future (but before publishing to external sites)
 
+7/18/2026 - Gavin Newsom just hired a prominent defense lawyer to fight the DOJ investigation against him because my 7/16 revelations included I involved Microsoft lawyers to beat the shitty OpenAI ones (so gave him idea maybe clout matters but it really doesn't, Ali would've still been obliterated in court had I chosen to take her there since I had so much overwhelming evidence OpenAI steals from FOSS + KudoAI) + I mentioned contacting DOJ to get Experian fined so he mistook that to mean I was the trigger behind his current probe (in which case he knows how much detailed evidence I hand out like candy so needed a stronger litigator) but he got it wrong, I had nothing to do w/ the probe (but now he caused me to supply them my bookmarks of corruption so he stupidly hurt his own case by involving me now)
+
 <hr>
 
 <div align="center">
